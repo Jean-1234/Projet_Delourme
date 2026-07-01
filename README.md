@@ -1,4 +1,4 @@
-# Projet Delourme — Méthode LOD (Localized Orthogonal Decomposition)
+#  Méthode LOD (Localized Orthogonal Decomposition)
 
 Implémentation MATLAB/Octave de la méthode des éléments finis standard et de la méthode **LOD (Localized Orthogonal Decomposition)** pour la résolution numérique de problèmes elliptiques à coefficients fortement oscillants (homogénéisation périodique en 1D).
 
