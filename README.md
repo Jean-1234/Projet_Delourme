@@ -117,7 +117,7 @@ Les figures générées (`*.png`) dans chaque dossier illustrent ces comportemen
 Projet réalisé dans le cadre d'un cours sur l'homogénéisation numérique et la méthode LOD (Målqvist–Peterseim), basé sur les supports de B. Verfürth et S. Fliss.
 
 ## Références
-
+-Cours et TP Eléments finis de Dr Caroline Japhet MACS2 2025/2026
 - A. Målqvist, D. Peterseim, *Numerical homogenization by localized orthogonal decomposition*, SIAM, 2020.
 - P. Henning, A. Målqvist, *Localized Orthogonal Decomposition*, arXiv:1308.3379.
 - B. Verfürth, *Analytical and Numerical Homogenization*, Winter Semester 2022/23.
